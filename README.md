@@ -1,7 +1,7 @@
-This injector uses Manual Mapping + Stealth 
+This injector uses Manual Mapping + Stealth Injection
 Made fully with C++
 
-To use just type the process name, if you are using it for cs2 you can just hit enter.
+To use just type the process name, it has a default so just hit enter if your using it for CS2
 After that you just put the path to the dll for example C:\Users\main\desktop\name.dll
 
 
@@ -16,3 +16,5 @@ Check Virus Total (Detections are False Positives check behaviours if you know w
 https://www.virustotal.com/gui/file/c48e41cef7d62b8ba589e26ff4552e7c5390dc47ffacc9e56829647365a2c4b3
 
 Feel free to also use Extreme Injector if you want, this one is just more convinient and does not get wiped out by my antivirus like extreme
+
+This is of course for Educational Purposes and source code is provided.
